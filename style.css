@@ -1,0 +1,11 @@
+body {
+    font-family: 'Karla';font-size: 22px;
+    background-color: #f5f5f5
+}
+
+.logo {
+  padding-top: 2em;
+  img {
+    height: 6em;
+  }
+}
